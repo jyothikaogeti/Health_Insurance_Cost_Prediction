@@ -23,3 +23,11 @@ This model is designed for individuals aged 25 and below. It uses machine learni
 #### Feature Importance (Young Model)
 The feature importance graph below shows which features contribute the most to predictions for individuals aged 25 and below.
 ![Feature Importance Young](assets/feature_importance_young.png)
+
+---
+
+### Rest Model (Age > 25)
+For individuals aged above 25, the Rest Model is used. It also considers key factors such as income, genetical risk, and medical history but may prioritize different features compared to the Young Model.
+#### Feature Importance (Rest Model)
+The feature importance graph below illustrates which features are most influential for individuals older than 25.
+![Feature Importance Rest](assets/images/feature_importance_rest.png)
