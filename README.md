@@ -30,3 +30,11 @@ For individuals aged above 25, the Rest Model is used. It also considers key fac
 #### Feature Importance (Rest Model)
 The feature importance graph below illustrates which features are most influential for individuals older than 25.
 ![Feature Importance Rest](assets/feature_importance_rest.png)
+
+# Health Insurance Cost Prediction App
+This is a web app for predicting health insurance costs based on various inputs. You can check it out here:
+[Visit the Web App](https://healthcare-insurance-cost-predictor.streamlit.app/)
+## Web App Preview
+![Health Insurance Cost Prediction Web App](assets/app.png)
+
+
