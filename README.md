@@ -34,7 +34,7 @@ The feature importance graph below illustrates which features are most influenti
 ## Health Insurance Cost Prediction App
 This is a web app for predicting health insurance costs based on various inputs. You can check it out here:
 [Visit the Web App](https://healthcare-insurance-cost-predictor.streamlit.app/)
-## Web App Preview
+### Web App Preview
 ![Health Insurance Cost Prediction Web App](assets/app.png)
 
 
