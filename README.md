@@ -16,3 +16,10 @@
 * Joblib: For saving and loading the trained models and scalers.
 * Python: Core language for the backend processing.
 * Streamlit: For building the web application and user interface.
+
+## Models
+### Young Model (Age ≤ 25)
+This model is designed for individuals aged 25 and below. It uses machine learning to predict healthcare premium loans based on input features like age, income, medical history, and more.
+#### Feature Importance (Young Model)
+The feature importance graph below shows which features contribute the most to predictions for individuals aged 25 and below.
+![Feature Importance Young](assets/feature_importance_young.png)
